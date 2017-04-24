@@ -1,0 +1,14 @@
+version: '2'
+services:
+  app:
+    image: devteds/rails-api-example
+    ports:
+      - "80:3000"
+    environment:
+      DB_USER: bloguser
+      DB_NAME: blog
+      DB_PASSWORD: password123
+      DB_HOST: bd1p90upedqrzuv.cyj36qazkf1j.us-west-2.rds.amazonaws.com
+      RAILS_ENV: production
+      RAILS_LOG_TO_STDOUT: 1
+      SECRET_KEY_BASE: 5156ca5a10c6842c4359d9a78ba14a4ba91cee9394d2e87bb783a0f770469d6afd725d40346d328b705cb2b74ef7de2005701c3449a1dbd1d1bc163ce3b67ec1
