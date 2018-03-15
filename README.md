@@ -1,4 +1,4 @@
-# README
+# AWS CloudFormation + EC2 + RDS and Docker App
 
 Devteds [Episode #7](https://devteds.com/episodes/7-create-aws-cloudformation-stack-for-ec2-rds-and-deploy-docker-app)
 
