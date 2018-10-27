@@ -8,7 +8,7 @@ Create an application stack that consist of an EC2 instance and RDS Instance for
 
 [![Episode Video Link](https://i.ytimg.com/vi/8J0g_xWUzV0/hqdefault.jpg)](https://youtu.be/8J0g_xWUzV0)
 
-Visit https://devteds.com to watch all the episodes
+Visit https://devteds.com to watch all the episodes. If you're looking to learn [Docker with ECS](https://github.com/devteds/e9-cloudformation-docker-ecs) checkout [episode #9](https://devteds.com/episodes/9-docker-on-amazon-ecs-using-cloudformation)
 
 ## Setup AWS & CLI
 
