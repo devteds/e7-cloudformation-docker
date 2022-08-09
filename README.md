@@ -10,6 +10,9 @@ Create an application stack that consist of an EC2 instance and RDS Instance for
 
 Visit https://devteds.com to watch all the episodes. If you're looking to learn [Docker with ECS](https://github.com/devteds/e9-cloudformation-docker-ecs) checkout [episode #9](https://devteds.com/episodes/9-docker-on-amazon-ecs-using-cloudformation)
 
+> ## Announcement: Course on Kubernetes
+> If you're want to start deploying your containers to Kubernetes, especially on AWS EKS, [check this course on Kubernetes](https://courses.devteds.com/kubernetes-get-started) that walkthrough creating Kubernetes cluster on AWS EKS using Terraform and deploying multiple related containers applications to Kubernetes and more. https://courses.devteds.com/kubernetes-get-started
+
 ## Setup AWS & CLI
 
 - Login to AWS Management Console and Generate a new KeyPair. Save the downloaded key
